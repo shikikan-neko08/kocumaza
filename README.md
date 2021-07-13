@@ -1,4 +1,4 @@
-### Hi, I'm Kocumaza-Chan!
+<h1 align='center'>Hi👻 I'm kocumaza-chan!!</h1>
 
 ## Links
 
