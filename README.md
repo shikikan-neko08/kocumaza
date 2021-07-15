@@ -14,7 +14,7 @@
 <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square'/>
 </p>
 
-## Learning (:。)≡
+## Learning (:｡≡
 <p align='left'>
   <a href='ttps://www.w3schools.com/css/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='css3' width='40' height='40'/>
