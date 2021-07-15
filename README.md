@@ -2,8 +2,6 @@
 <img src='./img/readme.png'/>
 
 ## Links
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%239eecff&label=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkocumaza">
-- <a href='https://keybase.io/kocumaza'>Keybase</a>
 
 ## Environment
 
