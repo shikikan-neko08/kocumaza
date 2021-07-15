@@ -1,6 +1,5 @@
 <h1 align='center'>Hi👻 I'm kocumaza-chan!!</h1>
 <img src='./readme.png'/>
-
 ## Links
 
 ## Environment
