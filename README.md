@@ -1,6 +1,8 @@
 <h1 align='center'>Hi👻 I'm kocumaza-chan!!</h1>
 <img src='./readme.png'/>
+
 ## Links
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/kocumaza)
 
 ## Environment
 
