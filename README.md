@@ -9,9 +9,9 @@
 
 ## Environment く:≡
 <p align='left'>
-<img src="https://img.shields.io/static/v1?label=OS&message=Windows/Linux%20Mint/Arch%20Linux/&color=blue&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/>
+<img src='https://img.shields.io/static/v1?label=OS&message=Windows/Linux%20Mint/Arch%20Linux/&color=blue&style=flat-square'/>
+<img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square'/>
+<img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square'/>
 </p>
 
 ## Learning (:。)≡
