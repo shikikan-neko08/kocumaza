@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-Keybase-e3e049?style=flat-square)](https://keybase.io/kocumaza)
 [![](https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square)](https://www.reddit.com/user/kocumaza)
 
-## Environment く:≡
+## Environment <:≡
 <p align='left'>
 <img src='https://img.shields.io/static/v1?label=OS&message=Windows/Linux%20Mint/Arch%20Linux/&color=blue&style=flat-square'/>
 <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square'/>
