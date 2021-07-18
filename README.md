@@ -9,9 +9,10 @@
 
 ## Environment <:≡
 <p align='left'>
-<img src='https://img.shields.io/static/v1?label=OS&message=Windows/Garuda%20Linux/Android12&color=blue&style=flat-square'/>
-<img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square'/>
-<img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square'/>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux/Garuda%20Linux/Android12&color=07adad&style=flat-square'/>
+  <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square'/>
+  <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode&color=0f92d9&style=flat-square'/>
+  <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square'/>
 </p>
 
 ## Learning (:｡≡
