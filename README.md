@@ -8,12 +8,12 @@
 [![](https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square)](https://www.reddit.com/user/kocumaza)
 
 ## Likes <°))彡
-![](https://img.shields.io/badge/-Android-3ddb86?style=flat-square)
-![](https://img.shields.io/badge/-Windows-1595fa?style=flat-square)
-![](https://img.shields.io/badge/-linux-ffcd00?style=flat-square)
-![](https://img.shields.io/badge/-i3-fb4934?style=flat-square)
-![](https://img.shields.io/badge/-VOCALOID-1ca3ce?style=flat-square)
-![](https://img.shields.io/badge/-UTAU-8021fb?style=flat-square)
+[![](https://img.shields.io/badge/-Android-3ddb86?style=flat-square)](https://developer.android.com/about/versions/12)
+[![](https://img.shields.io/badge/-Windows-1595fa?style=flat-square)](https://www.microsoft.com/en-us/windows/windows-11)
+[![](https://img.shields.io/badge/-Arch%20Linux-1793d1?style=flat-square)](https://archlinux.org/)
+[![](https://img.shields.io/badge/-Garuda%20Linux-3083b8?style=flat-square)](https://garudalinux.org/)
+[![](https://img.shields.io/badge/-i3-fb4934?style=flat-square)](https://i3wm.org/)
+[![](https://img.shields.io/badge/-VOCALOID/UTAU-21fbcf?style=flat-square)](https://www.youtube.com/playlist?list=PLxwAGtrNvXh7t4fTj2bX-3mRgky37BxUw)
 
 ## Environment ≡[°-°]≡
 <p align='left'>
