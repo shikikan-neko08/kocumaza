@@ -7,9 +7,17 @@
 [![](https://img.shields.io/badge/-Keybase-e3e049?style=flat-square)](https://keybase.io/kocumaza)
 [![](https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square)](https://www.reddit.com/user/kocumaza)
 
-## Environment <:≡
+## Likes <°))彡
+![](https://img.shields.io/badge/-Android-3ddb86?style=flat-square)
+![](https://img.shields.io/badge/-Windows-1595fa?style=flat-square)
+![](https://img.shields.io/badge/-linux-ffcd00?style=flat-square)
+![](https://img.shields.io/badge/-i3-fb4934?style=flat-square)
+![](https://img.shields.io/badge/-VOCALOID-1ca3ce?style=flat-square)
+![](https://img.shields.io/badge/-UTAU-8021fb?style=flat-square)
+
+## Environment ≡[°-°]≡
 <p align='left'>
-  <img src='https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux/Garuda%20Linux/Android12&color=07adad&style=flat-square'/>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Arch%20Linux/Garuda%20Linux/Android12&color=07adad&style=flat-square'/>
   <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square'/>
   <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode&color=0f92d9&style=flat-square'/>
   <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square'/>
