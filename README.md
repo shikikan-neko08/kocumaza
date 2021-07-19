@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/-Arch%20Linux-1793d1?style=flat-square)](https://archlinux.org/)
 [![](https://img.shields.io/badge/-Garuda%20Linux-3083b8?style=flat-square)](https://garudalinux.org/)
 [![](https://img.shields.io/badge/-i3-fb4934?style=flat-square)](https://i3wm.org/)
-[![](https://img.shields.io/badge/-VOCALOID/UTAU-21fbcf?style=flat-square)](https://www.youtube.com/playlist?list=PLxwAGtrNvXh7t4fTj2bX-3mRgky37BxUw)
+[![](https://img.shields.io/badge/-VOCALOID/UTAU-35e8c4?style=flat-square)](https://www.youtube.com/playlist?list=PLxwAGtrNvXh7t4fTj2bX-3mRgky37BxUw)
 
 ## Environment ≡[°-°]≡
 <p align='left'>
