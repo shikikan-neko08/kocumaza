@@ -45,7 +45,7 @@
   ## Stats >ﾟ ))彡
 <p align='left'>
   <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian'/>
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=nord_dark'></p>
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark'></p>
 
 <p align="right">
   <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square'/></p>
