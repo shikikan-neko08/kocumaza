@@ -41,7 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width='40' height='40'/>
   <img src='https://download.blender.org/branding/community/blender_community_badge_white.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width='40' height='40'/></p>
-  
+
   ## Stats >ﾟ ))彡
 <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img align='left' src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian'/></a>
+  <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian'/></a>
