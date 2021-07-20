@@ -45,3 +45,6 @@
   ## Stats >ﾟ ))彡
 <a href='https://github.com/anuraghazra/github-readme-stats'>
   <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian'/></a>
+  
+<p align="right">
+  <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square'/></p>
