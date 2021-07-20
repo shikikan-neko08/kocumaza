@@ -2,27 +2,27 @@
 <img src='./readme.png'/>
 
 ## Links (:≡
-<a href='https://twitter.com/kocumaza' target='_blank' rel='noopener noreferrer'>
+<a href='https://twitter.com/kocumaza'>
   <img src='https://img.shields.io/badge/-twitter-1c9cea?style=flat-square'/></a>
-<a href='https://steamcommunity.com/id/kocumaza' target='_blank' rel='noopener noreferrer'>
+<a href='https://steamcommunity.com/id/kocumaza'>
   <img src='https://img.shields.io/badge/-Steam-1c31ea?style=flat-square'/></a>
-<a href='https://keybase.io/kocumaza' target='_blank' rel='noopener noreferrer'>
+<a href='https://keybase.io/kocumaza'>
   <img src='https://img.shields.io/badge/-Keybase-e3e049?style=flat-square'/></a>
-<a href='https://www.reddit.com/user/kocumaza' target='_blank' rel='noopener noreferrer'>
+<a href='https://www.reddit.com/user/kocumaza'>
   <img src='https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square'/></a>
 
 ## Likes <°))彡
-<a href='https://developer.android.com/about/versions/12' target='_blank' rel='noopener noreferrer'>
+<a href='https://developer.android.com/about/versions/12'>
   <img src='https://img.shields.io/badge/-Android-3ddb86.svg?logo=&style=flat-square'/></a>
-<a href='https://www.microsoft.com/en-us/windows/windows-11' target='_blank' rel='noopener noreferrer'>
+<a href='https://www.microsoft.com/en-us/windows/windows-11'>
   <img src='https://img.shields.io/badge/-Windows-1595fa.svg?logo=&style=flat-square'/></a>
-<a href='https://archlinux.org' target='_blank' rel='noopener noreferrer'>
+<a href='https://archlinux.org'>
   <img src='https://img.shields.io/badge/-Arch Linux-2CA5E0.svg?logo=&style=flat-square'/></a>
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener noreferrer'>
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
   <img src='https://img.shields.io/badge/-Garuda Linux-3083b8.svg?logo=&style=flat-square'/></a>
-<a href='https://i3wm.org' target='_blank' rel='noopener noreferrer'>
+<a href='https://i3wm.org'>
   <img src='https://img.shields.io/badge/-i3-fb4934.svg?logo=&style=flat-square'/></a>
-<a href='https://www.youtube.com/playlist?list=PLxwAGtrNvXh7t4fTj2bX-3mRgky37BxUw' target='_blank' rel='noopener noreferrer'>
+<a href='https://www.youtube.com/playlist?list=PLxwAGtrNvXh7t4fTj2bX-3mRgky37BxUw'>
   <img src='https://img.shields.io/badge/-VOCALOID/UTAU-31c4a7.svg?logo=&style=flat-square'/></a>
 
 ## Environment ≡[°-°]≡
