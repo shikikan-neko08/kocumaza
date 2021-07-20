@@ -10,6 +10,8 @@
   <img src='https://img.shields.io/badge/-Keybase-e3e049?style=flat-square'/></a>
 <a href='https://www.reddit.com/user/kocumaza'>
   <img src='https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square'/></a>
+<a href='mailto://kocumaza--@outlook.com'>
+  <img src='https://img.shields.io/badge/-Email-23b8b3?style=flat-square'/></a>
 
 ## Likes <°))彡
 <a href='https://developer.android.com/about/versions/12'>
