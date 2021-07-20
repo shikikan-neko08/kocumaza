@@ -52,6 +52,6 @@
   <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark'></p>
 
 <p align="right">
-  <img src='./nyo.png'/>
+  <img src='./nyo.png' width='40' height='40'/>
   <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square'/></p>
 
