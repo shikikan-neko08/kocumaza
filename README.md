@@ -20,7 +20,7 @@
   <img src='https://img.shields.io/badge/-Windows-1595fa.svg?logo=&style=flat-square'/></a>
 <a href='https://archlinux.org'>
   <img src='https://img.shields.io/badge/-Arch Linux-2CA5E0.svg?logo=&style=flat-square'/></a>
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+<a href='https://garudalinux.org/'>
   <img src='https://img.shields.io/badge/-Garuda Linux-3083b8.svg?logo=&style=flat-square'/></a>
 <a href='https://i3wm.org'>
   <img src='https://img.shields.io/badge/-i3-fb4934.svg?logo=&style=flat-square'/></a>
