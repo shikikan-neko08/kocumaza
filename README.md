@@ -14,23 +14,16 @@
   <img src='https://img.shields.io/badge/-Email-23b8b3?style=flat-square'/></a>
 
 ## Likes <°))彡
-<a href='https://developer.android.com/about/versions/12'>
-  <img src='https://img.shields.io/badge/-Android-3ddb86.svg?logo=&style=flat-square'/></a>
-<a href='https://www.microsoft.com/en-us/windows/windows-11'>
-  <img src='https://img.shields.io/badge/-Windows-1595fa.svg?logo=&style=flat-square'/></a>
-<a href='https://archlinux.org'>
-  <img src='https://img.shields.io/badge/-Arch Linux-2CA5E0.svg?logo=&style=flat-square'/></a>
-<a href='https://garudalinux.org/'>
-  <img src='https://img.shields.io/badge/-Garuda Linux-3083b8.svg?logo=&style=flat-square'/></a>
-<a href='https://i3wm.org'>
-  <img src='https://img.shields.io/badge/-i3-fb4934.svg?logo=&style=flat-square'/></a>
-<a href='https://www.youtube.com/playlist?list=PLxwAGtrNvXh7t4fTj2bX-3mRgky37BxUw'>
-  <img src='https://img.shields.io/badge/-VOCALOID/UTAU-31c4a7.svg?logo=&style=flat-square'/></a>
+<p align='left'>
+  <img src='https://img.shields.io/badge/Android-3ddb86.svg?logo=&style=flat-square'/>
+  <img src='https://img.shields.io/badge/Windows-1595fa.svg?logo=&style=flat-square'/>
+  <img src='https://img.shields.io/badge/Linux-2CA5E0.svg?logo=&style=flat-square'/>
+  <img src='https://img.shields.io/badge/i3-fb4934.svg?logo=&style=flat-square'/>ø</p>
 
 ## Environment ≡[°-°]≡
 <p align='left'>
   <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/Macbook%20Air/Pixel%204a&color=355cb0&style=flat-square'/>
-  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Arch%20Linux/Garuda%20Linux/Android12&color=07adad&style=flat-square'/>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square'/>
   <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square'/>
   <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode&color=0f92d9&style=flat-square'/>
   <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square'/></p>
@@ -54,4 +47,3 @@
 <p align="right">
   <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square'/>
   <img src='./nyo.png' width='40' height='40'/></p>
-
