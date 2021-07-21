@@ -18,7 +18,7 @@
   <img src='https://img.shields.io/badge/Android-3ddb86.svg?logo=&style=flat-square'/>
   <img src='https://img.shields.io/badge/Windows-1595fa.svg?logo=&style=flat-square'/>
   <img src='https://img.shields.io/badge/Linux-2CA5E0.svg?logo=&style=flat-square'/>
-  <img src='https://img.shields.io/badge/i3-fb4934.svg?logo=&style=flat-square'/>ø</p>
+  <img src='https://img.shields.io/badge/i3-fb4934.svg?logo=&style=flat-square'/></p>
 
 ## Environment ≡[°-°]≡
 <p align='left'>
