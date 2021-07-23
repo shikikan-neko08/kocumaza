@@ -3,11 +3,11 @@
 
 ## Links (:≡
 <a href='https://twitter.com/kocumaza'>
-  <img src='https://img.shields.io/badge/-twitter-1c9cea?style=flat-square'/></a>
+  <img src='https://img.shields.io/badge/-twitter-1c9cea?style=flat-square' alt='Twitter-Link'/></a>
 <a href='https://steamcommunity.com/id/kocumaza'>
-  <img src='https://img.shields.io/badge/-Steam-1c31ea?style=flat-square'/></a>
+  <img src='https://img.shields.io/badge/-Steam-1c31ea?style=flat-square' alt='Steam-Link'/></a>
 <a href='https://keybase.io/kocumaza'>
-  <img src='https://img.shields.io/badge/-Keybase-e3e049?style=flat-square'/></a>
+  <img src='https://img.shields.io/badge/-Keybase-e3e049?style=flat-square' alt=''/></a>
 <a href='https://www.reddit.com/user/kocumaza'>
   <img src='https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square'/></a>
 <a href='mailto://kocumaza--@outlook.com'>
@@ -15,7 +15,7 @@
 
 ## Likes <°))彡
 <p align='left'>
-  <img src='https://img.shields.io/badge/Android-3ddb86.svg?logo=&style=flat-square'/>
+  <img src='https://img.shields.io/badge/Android-3ddb86.svg?logo=&style=flat-square' alt='Android'/>
   <img src='https://img.shields.io/badge/Windows-1595fa.svg?logo=&style=flat-square'/>
   <img src='https://img.shields.io/badge/Linux-2CA5E0.svg?logo=&style=flat-square'/>
   <img src='https://img.shields.io/badge/i3-fb4934.svg?logo=&style=flat-square'/></p>
