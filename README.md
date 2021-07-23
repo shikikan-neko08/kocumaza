@@ -33,9 +33,10 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40'/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg' width='40' height='40'/>
+  <img src='https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='40' height='40'/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width='40' height='40'/>
+  <img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' width='40' height='40'/>
   <img src='https://download.blender.org/branding/community/blender_community_badge_white.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width='40' height='40'/></p>
 
