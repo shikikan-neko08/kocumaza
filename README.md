@@ -1,4 +1,4 @@
-<h1 align='center'>Hi👻 I'm kocumaza!!</h1>
+<h1 align='center'>Hi👻 I'm kocumazɐ!!</h1>
 <img src='./readme.png'/>
 
 ## Links (:≡
