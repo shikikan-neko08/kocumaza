@@ -25,7 +25,7 @@
   <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Macbook%20Air/Pixel%204a&color=355cb0&style=flat-square' alt='HandmadePC/surfacepro7/MacbookAir/Pixel4a'/>
   <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square'/ alt='Windows11/GarudaLinux/ManjaroLinux/Android12'>
   <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square' alt='CentBrowser'/>
-  <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode&color=0f92d9&style=flat-square' alt='VSCode'/>
+  <img src='https://img.shields.io/static/v1?label=IDE&message=VSCodeInsiders&color=0f92d9&style=flat-square' alt='VSCode'/>
   <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square' alt='G913'/></p>
 
 ## Learning (:｡≡
