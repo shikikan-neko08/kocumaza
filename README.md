@@ -1,5 +1,5 @@
 <h1 align='center'>Hi👻 I'm kocumazɐ!!</h1>
-<img src='./readme.png'/>
+<img src='./readme.png' alt='header'/>
 
 ## Links (:≡
 <a href='https://twitter.com/kocumaza'>
@@ -22,17 +22,17 @@
 
 ## Environment ≡[°-°]≡
 <p align='left'>
-  <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Macbook%20Air/Pixel%204a&color=355cb0&style=flat-square' alt='HandmadePC/surfacepro7/MacbookAir/Pixel4a'/>
-  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square'/ alt='Windows11/GarudaLinux/ManjaroLinux/Android12'>
-  <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square' alt='CentBrowser'/>
-  <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode%20Insiders&color=0f92d9&style=flat-square' alt='VSCode'/>
-  <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square' alt='G913'/></p>
+  <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Macbook%20Air/Pixel%204a&color=355cb0&style=flat-square' alt='Device=HandmadePC/surfacepro7/MacbookAir/Pixel4a'/>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square'/ alt='OS=Windows11/GarudaLinux/ManjaroLinux/Android12'>
+  <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square' alt='Browser=CentBrowser'/>
+  <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode&color=0f92d9&style=flat-square' alt='IDE=VSCode'/>
+  <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square' alt='Keyboard=G913'/></p>
 
 ## Learning (:｡≡
 <p align='left'>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40' height='40' alt=''/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='40' height='40' alt=''/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40' alt=''/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40' height='40' alt='HTML'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='40' height='40' alt='CSS'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40' alt='JavaScript'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg' width='40' height='40' alt=''/>
   <img src='https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg' width='40' height='40' alt=''/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='40' height='40' alt=''/>
