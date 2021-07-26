@@ -1,5 +1,5 @@
-<h1 align='center'>Hi<img src='./ghost.gif' width='30' height'30' alt='Ghost'/> I'm kocumazɐ!!</h1>
-<img src='./readme.png' alt='header'/>
+<h1 align='center'>Hi<img src='./image/ghost.gif' width='30' height'30' alt='Ghost'/> I'm kocumazɐ!!</h1>
+<img src='./image/readme.png' alt='header'/>
 
 ## Links (:≡
 <a href='https://twitter.com/kocumaza'>
@@ -42,6 +42,6 @@
 
 <p align='right'>
   <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square' alt='readmeviews'/>
-  <img src='./nyo.png' width='40' height='40' alt='thinkingface'/></p>
+  <img src='./image/nyo.png' width='40' height='40' alt='thinkingface'/></p>
   
  
