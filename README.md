@@ -5,8 +5,6 @@
 <a href='https://twitter.com/kocumaza'>
   <img src='https://img.shields.io/badge/-twitter-1c9cea?style=flat-square' alt='Twitter-Link'/></a>
 <a href='https://steamcommunity.com/id/kocumaza'>
-  <img src='https://img.shields.io/badge/-Steam-1c31ea?style=flat-square' alt='Steam-Link'/></a>
-<a href='https://keybase.io/kocumaza'>
   <img src='https://img.shields.io/badge/-Keybase-e3e049?style=flat-square' alt='Keybase-Link'/></a>
 <a href='https://www.reddit.com/user/kocumaza'>
   <img src='https://img.shields.io/badge/-Reddit-ea5a1c?style=flat-square' alt='Reddit-Link'/></a>
@@ -36,9 +34,6 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg' width='40' height='40' alt='Svelte'/>
   <img src='https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg' width='40' height='40' alt='Kotlinlang'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='40' height='40' alt='Linux'/>
-  <img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' width='40' height='40' alt='Bash'/>
-  <img src='https://download.blender.org/branding/community/blender_community_badge_white.svg' width='40' height='40' alt='Blender'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width='40' height='40' alt='Go'/></p>
 
   ## Stats >ﾟ ))彡
 <p align='left'>
