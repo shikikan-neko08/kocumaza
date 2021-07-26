@@ -23,7 +23,7 @@
 ## Environment ≡[°-°]≡
 <p align='left'>
   <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Pixel%204a&color=355cb0&style=flat-square' alt='Device=HandmadePC/surfacepro7/Pixel4a'/>
-  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square'/ alt='OS=Windows11/GarudaLinux/ManjaroLinux/Android12'>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square' alt='OS=Windows11/GarudaLinux/ManjaroLinux/Android12'/>
   <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square' alt='Browser=CentBrowser'/>
   <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode%20Insiders&color=0f92d9&style=flat-square' alt='IDE=VSCode'/>
   <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square' alt='Keyboard=G913'/></p>
@@ -43,7 +43,7 @@
   ## Stats >ﾟ ))彡
 <p align='left'>
   <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian' alt='GithubStats'/>
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark' alt='GithubProfilesummarycards'></p>
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark' alt='GithubProfilesummarycards'/></p>
 
 <p align="right">
   <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square' alt='readmeviews'/>
