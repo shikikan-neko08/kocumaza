@@ -1,4 +1,4 @@
-<h1 align='center'>Hi👻 I'm kocumazɐ!!</h1>
+<h1 align='center'>Hi<img src='./ghost.gif' alt='Ghost' width='30' height'30'/> I'm kocumazɐ!!</h1>
 <img src='./readme.png' alt='header'/>
 
 ## Links (:≡
