@@ -22,7 +22,7 @@
 
 ## Environment ≡[°-°]≡
 <p align='left'>
-  <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Macbook%20Air/Pixel%204a&color=355cb0&style=flat-square' alt='Device=HandmadePC/surfacepro7/MacbookAir/Pixel4a'/>
+  <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Pixel%204a&color=355cb0&style=flat-square' alt='Device=HandmadePC/surfacepro7/Pixel4a'/>
   <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square'/ alt='OS=Windows11/GarudaLinux/ManjaroLinux/Android12'>
   <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square' alt='Browser=CentBrowser'/>
   <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode%20Insiders&color=0f92d9&style=flat-square' alt='IDE=VSCode'/>
@@ -33,18 +33,18 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40' height='40' alt='HTML'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='40' height='40' alt='CSS'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40' alt='JavaScript'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg' width='40' height='40' alt=''/>
-  <img src='https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg' width='40' height='40' alt=''/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='40' height='40' alt=''/>
-  <img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' width='40' height='40' alt=''/>
-  <img src='https://download.blender.org/branding/community/blender_community_badge_white.svg' width='40' height='40' alt=''/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width='40' height='40' alt=''/></p>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg' width='40' height='40' alt='Svelte'/>
+  <img src='https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg' width='40' height='40' alt='Kotlinlang'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='40' height='40' alt='Linux'/>
+  <img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' width='40' height='40' alt='Bash'/>
+  <img src='https://download.blender.org/branding/community/blender_community_badge_white.svg' width='40' height='40' alt='Blender'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width='40' height='40' alt='Go'/></p>
 
   ## Stats >ﾟ ))彡
 <p align='left'>
-  <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian' alt=''/>
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark' alt=''></p>
+  <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian' alt='GithubStats'/>
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark' alt='GithubProfilesummarycards'></p>
 
 <p align="right">
-  <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square' alt=''/>
-  <img src='./nyo.png' width='40' height='40'/></p>
+  <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square' alt='readmeviews'/>
+  <img src='./nyo.png' width='40' height='40' alt='thinkingface'/></p>
