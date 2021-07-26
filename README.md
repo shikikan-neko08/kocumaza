@@ -23,7 +23,7 @@
 ## Environment ≡[°-°]≡
 <p align='left'>
   <img src='https://img.shields.io/static/v1?label=Device&message=Handmade%20PC/surface%20pro%207/Pixel%204a&color=355cb0&style=flat-square' alt='Device=HandmadePC/surfacepro7/Pixel4a'/>
-  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Garuda%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square' alt='OS=Windows11/GarudaLinux/ManjaroLinux/Android12'/>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows11/Arch%20Linux/Manjaro%20Linux/Android12&color=07adad&style=flat-square' alt='OS=Windows11/ArchLinux/ManjaroLinux/Android12'/>
   <img src='https://img.shields.io/static/v1?label=Browser&message=CentBrowser&color=5cb0ff&style=flat-square' alt='Browser=CentBrowser'/>
   <img src='https://img.shields.io/static/v1?label=IDE&message=VSCode%20Insiders&color=0f92d9&style=flat-square' alt='IDE=VSCode'/>
   <img src='https://img.shields.io/static/v1?label=Keyboard&message=G913&color=black&style=flat-square' alt='Keyboard=G913'/></p>
