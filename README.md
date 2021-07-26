@@ -1,4 +1,4 @@
-<h1 align='center'>Hi<img src='./ghost.gif' alt='Ghost' width='30' height'30'/> I'm kocumazɐ!!</h1>
+<h1 align='center'>Hi<img src='./ghost.gif' width='30' height'30' alt='Ghost'/> I'm kocumazɐ!!</h1>
 <img src='./readme.png' alt='header'/>
 
 ## Links (:≡
@@ -40,6 +40,8 @@
   <img src='https://github-readme-stats.vercel.app/api?username=kocumaza&count_private=true&show_icons=true&theme=prussian' alt='GithubStats'/>
   <img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kocumaza&theme=nord_dark' alt='GithubProfilesummarycards'/></p>
 
-<p align="right">
+<p align='right'>
   <img src='https://komarev.com/ghpvc/?username=kocumaza&color=46b8d4&style=flat-square' alt='readmeviews'/>
   <img src='./nyo.png' width='40' height='40' alt='thinkingface'/></p>
+  
+ 
